@@ -4,7 +4,7 @@ const firstQuote = ["stay focused", "spread love", "enjoy life", "understand you
 
 const secondQuote = [" enjoy the gift of being healthy", "be grateful of what you are given", "don't forget, healthy mind, healthy life", "don't forget to say Thakn You"];
 
-const thirdQuote =["You are always loved", "You are the reason of somebody else's smile.", "You are exactly where you need to be."]
+const thirdQuote =["You are always loved", "You are the reason of somebody else's smile.", "You are exactly where you need to be."];
 
 const getTerm = (array) => {
     const ind = Math.floor(Math.random() * array.length);
