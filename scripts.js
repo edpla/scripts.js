@@ -13,5 +13,5 @@ const getTerm = (array) => {
 
 const generate = () =>
   `All you need today is to ${getTerm(firstQuote)} and ${getTerm(secondQuote)} 
-  )} and really ${getTerm(thirdQuote)}.`;
+  and really ${getTerm(thirdQuote)}.`;
   
